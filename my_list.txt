@@ -1,5 +1,5 @@
-"Chevrolet"
-"Honda"
-"BMW"
-"Mercedes"
-"Tesla"
+Chevrolet
+Honda
+BMW
+Mercedes
+Tesla
